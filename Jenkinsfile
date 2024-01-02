@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Obtener el código fuente del repositorio
+                // Obtener el código fuente del repositoriogfrgf
                 checkout scm
             }
         }
